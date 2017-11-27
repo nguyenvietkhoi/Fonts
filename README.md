@@ -1,6 +1,6 @@
 # Fonts
 Unicode fonts for
-Grantha
+/nGrantha
 Tai Tham
 Balinese
 Javanese
