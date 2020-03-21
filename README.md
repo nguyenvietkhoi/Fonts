@@ -4,3 +4,4 @@ Grantha
 Tai Tham
 Balinese
 Javanese
+Nepal Lipi
